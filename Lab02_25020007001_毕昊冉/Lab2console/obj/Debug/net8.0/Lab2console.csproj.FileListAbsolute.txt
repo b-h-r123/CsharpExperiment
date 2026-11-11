@@ -1,0 +1,14 @@
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\bin\Debug\net8.0\Lab2console.exe
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\bin\Debug\net8.0\Lab2console.deps.json
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\bin\Debug\net8.0\Lab2console.runtimeconfig.json
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\bin\Debug\net8.0\Lab2console.dll
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\bin\Debug\net8.0\Lab2console.pdb
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\obj\Debug\net8.0\Lab2console.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\obj\Debug\net8.0\Lab2console.AssemblyInfoInputs.cache
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\obj\Debug\net8.0\Lab2console.AssemblyInfo.cs
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\obj\Debug\net8.0\Lab2console.csproj.CoreCompileInputs.cache
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\obj\Debug\net8.0\Lab2console.dll
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\obj\Debug\net8.0\refint\Lab2console.dll
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\obj\Debug\net8.0\Lab2console.pdb
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\obj\Debug\net8.0\Lab2console.genruntimeconfig.cache
+D:\dotNet开发作业\Lab02_25020007001_毕昊冉\Lab2console\obj\Debug\net8.0\ref\Lab2console.dll

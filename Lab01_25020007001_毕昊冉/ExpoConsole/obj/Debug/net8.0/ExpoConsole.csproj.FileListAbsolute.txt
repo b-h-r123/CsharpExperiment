@@ -1,0 +1,14 @@
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\bin\Debug\net8.0\ExpoConsole.exe
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\bin\Debug\net8.0\ExpoConsole.deps.json
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\bin\Debug\net8.0\ExpoConsole.runtimeconfig.json
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\bin\Debug\net8.0\ExpoConsole.dll
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\bin\Debug\net8.0\ExpoConsole.pdb
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\obj\Debug\net8.0\ExpoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\obj\Debug\net8.0\ExpoConsole.AssemblyInfoInputs.cache
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\obj\Debug\net8.0\ExpoConsole.AssemblyInfo.cs
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\obj\Debug\net8.0\ExpoConsole.csproj.CoreCompileInputs.cache
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\obj\Debug\net8.0\ExpoConsole.dll
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\obj\Debug\net8.0\refint\ExpoConsole.dll
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\obj\Debug\net8.0\ExpoConsole.pdb
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\obj\Debug\net8.0\ExpoConsole.genruntimeconfig.cache
+D:\dotNet开发作业\Lab01_25020007001_毕昊冉\ExpoConsole\obj\Debug\net8.0\ref\ExpoConsole.dll
